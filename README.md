@@ -1,3 +1,15 @@
+This project is the Professional README Generator (Module 09, using node.js)
+1) To invoke the application, be sure to use these commands:
+npm install
+node index.js
+2) if inquirer package was successfully installed you should see:
+ package-lock.json
+ package.json
+ node_modules
+3) Here is the URL of this GitHub repository
+https://github.com/shawnchangs/README_generator
+4) In the repository you will find a video demo of this application
+
 # 09 Node.js Challenge: Professional README Generator
 
 ## Your Task
