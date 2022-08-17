@@ -9,6 +9,9 @@ node index.js
 3) Here is the URL of this GitHub repository
 https://github.com/shawnchangs/README_generator
 4) In the repository you will find a video demo of this application
+5) Video walkthrough of this application:
+https://drive.google.com/file/d/1BsbssJC2UujmQQfdvVP3pYE0d0FMxM0K/view
+
 
 # 09 Node.js Challenge: Professional README Generator
 
